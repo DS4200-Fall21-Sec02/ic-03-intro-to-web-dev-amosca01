@@ -2,7 +2,7 @@
 
 This repository is your starting point for this in-class assignment. 
 
-Link to your GitHub pages website: `[insert your clickable hyperlink here]`
+Link to your GitHub pages website: [https://ds4200-fall21-sec02.github.io/ic-03-intro-to-web-dev-amosca01/]
 
 # Aim of the assignment
 Build comfort with how to use git, GitHub Pages, JS, HTML, and D3. 
